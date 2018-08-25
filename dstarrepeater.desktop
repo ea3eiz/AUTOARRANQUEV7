@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+TryExec=lxterminal
+Exec=sh -c 'cd /home/pi/V7;sleep 5; sudo sh ejecutar_solodstar_04.sh'
+Icon=/home/pi/V7/repeater.png
+Type=Application
+StartupNotify=false
+Categories=GTK;Utility;TerminalEmulator;
+Terminal=false
+Name[es_ES]=Abrir D-STAR Repeater
+Hidden=false
+Comment[es_ES]=EA3EIZ
